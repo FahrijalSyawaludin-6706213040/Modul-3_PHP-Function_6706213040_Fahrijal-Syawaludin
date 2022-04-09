@@ -1,1 +1,3 @@
-# Modul-3_PHP-Function_6706213040_Fahrijal-Syawaludin
+# NIM: 6706213040
+# Nama: Fahrijal Syawaludin
+# Kelas: D3RPLA45-03
